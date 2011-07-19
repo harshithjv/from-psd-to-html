@@ -1,0 +1,5 @@
+Cloning to local directory:
+
+$ mkdir from-psd-to-html
+$ cd from-psd-to-html
+$ git clone git@github.com:harshithjv/from-psd-to-html.git
